@@ -2,6 +2,10 @@
 
 You can deselect the [ListViewItem](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.ListViewItem.html) when navigating back to ListView page in Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview).
 
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11739/how-to-achieve-singledeselect-when-use-listview-with-rg-plugin-popup-in-xamarin-forms
+
 **XAML**
 
 Bind [SfListView.TapCommand](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~TapCommand.html) to show the Popup page using [Rg.Plugin.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) framework. Bind [SelectedItem](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~SelectedItem.html) to handle the selection.
